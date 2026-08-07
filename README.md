@@ -14,7 +14,7 @@ C/C++ | Python | C# | Matlab/Simulink | Qt/Qml | Rust
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,cs,qt,git,docker,cmake,linux,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,qt,qml,git,docker,cmake,linux,visualstudio,matlab"/>
 </p>
 
 **Also experienced with:** MATLAB • QML • STL • SFML • Raylib
