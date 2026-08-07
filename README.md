@@ -1,12 +1,10 @@
+I'm Abderraouf.B
+
 ### C++ / Qt Software Developer
 
-I'm Abderraouf.B a C++ Developer with a background in Robotics, Automation, Electrical Engineering, and Cybersecurity, passionate about building reliable and high-performance software.
+I'm a C++ Developer with a background in Robotics, Automation, Electrical Engineering, and Cybersecurity, passionate about building reliable and high-performance software.
 Beyond C++, I've worked with C, C#, Python, and MATLAB/Simulink across embedded systems, automation, and software development projects.
 I'm a fast learner who enjoys tackling challenging problems, writing clean and maintainable code, and continuously improving my software engineering skills by building practical, real-world solutions.
-
-C/C++ Developer | CPA & CompTIA Sec+ certified | Control & Robotics Engineer
-7 years of professional experience (3 years in C++)
-C/C++ | Python | C# | Matlab/Simulink | Qt/Qml | Rust
 
 📍 **Open to Remote and Hybrid Opportunities**
 
@@ -14,147 +12,48 @@ C/C++ | Python | C# | Matlab/Simulink | Qt/Qml | Rust
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,cs,qt,qml,git,docker,cmake,linux,visualstudio,matlab"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,qt,git,docker,cmake,linux,visualstudio,matlab"/>
 </p>
 
 **Also experienced with:** MATLAB • QML • STL • SFML • Raylib
 ---
+## 💼 Experience
 
-# 💼 Professional Experience
-
-### Freelance C++ / Qt Developer
-
-**Apr 2024 – Present**
-
-* Desktop application development with Qt/QML
-* Reusable C++ libraries and APIs
-* Modular software architecture
-
-### Schneider Electric (Volt)
-
-**C++ Developer – Cybersecurity**
-
-* Secure PLC programming tools
-* Legacy C++/C# modernization
-* Performance optimization
-* Bug fixing and system stability
-
-### Altim France
-
-**C++/Qt Developer**
-
-* Image processing applications
-* Performance optimization
-* Code maintainability
-
-### Expleo
-
-**Control Engineer / Software developer**
-
-* Automation tools using Qt and Python
-* Robotics and control ADAS software
-* Internal engineering applications
+- **C++ / Qt Developer** — Building desktop applications, reusable libraries and modern software architectures.
+- **Cybersecurity & Industrial Software** — Modernizing C++/C# codebases, performance optimization and secure PLC tooling.
+- **Robotics & Automation** — Developing engineering tools with C++, Qt and Python for industrial applications.
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Projects
 
-### ♟️ Chess Game
-
-Modern chess game developed with **C++** and **Raylib**.
-
-* Object-Oriented Design
-* Move validation
-* Game engine
-* Clean architecture
+- ♟️ **Chess Game** — Modern C++ | Raylib | OOP | Game Engine
+- 📝 **Qt Text Editor** — Qt Widgets | File Explorer | Search
+- 🟪 **Tetris Engine** — Modern C++ | Design Patterns | Collision System
+- 🐍 **Snake Game** — C++ | SFML
+- 🌐 **Qt/QML API Client** — REST API Integration
 
 ---
 
-### 📝 Qt Text Editor
+## 🎓 Education
 
-Desktop application developed with Qt.
-
-Features:
-
-* File explorer
-* Open / Save
-* Search
-* Signals & Slots
-* Modern UI
+- 🎓 M.Sc. Robotics — University of Montpellier
+- 🎓 Control Engineering — ENP
 
 ---
 
-### 🟪 Tetris Engine
+## 📜 Certifications
 
-Modern C++ implementation of the classic game.
-
-Focus on:
-
-* OOP
-* Game loop
-* Collision detection
-* Maintainable architecture
+- CPA – C++ Certified Associate Programmer
+- CPE – C++ Certified Entry-Level Programmer
+- CompTIA Security+
+- C++ Programming (Saylor Academy)
 
 ---
 
-### 🐍 Snake Game
+## 💡 Interests
 
-Classic Snake game built with **C++** and **SFML**.
-
----
-
-### 🌐 Qt/QML API Integration
-
-Dynamic user interface connected to REST APIs using Qt/QML.
-
----
-
-# 🎓 Education
-
-* Master 2 of Robotics — University of Montpellier
-* Control Engineer — ENP
-
----
-
-# 📜 Certifications
-
-2023 – CPA- C++ Certified Associate Programmer (CPA : Issued by C++ institute). 
-2023 – CPE- C++ Certified Entry-Level Programmer (CPE : Issued by C++ institute).
-2023 – Certificate in C++ programming (CS107 : from Saylor Academy).
-2021 – Certificate in Cyber Sécurité (CompTIA Security+).
-2020 – Certifacate of graduation from Complete Python Mastery (Code with Mosh). 
-
-
-
----
-
-# 🌍 Languages
-
-* 🇫🇷 French — Fluent
-* 🇬🇧 English — Professional
-* 🇩🇿 Arabic — Native
-
----
-
-# 🎯 Areas of Interest
-
-* Modern C++
-* Qt / QML
-* Desktop Applications
-* Software Architecture
-* Performance Optimization
-* Robotics
-* Automation
-* Cybersecurity
-* Clean Code
-* Design Patterns
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bAbderraouf&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+Modern C++ • Qt/QML • Software Architecture • Desktop Applications • Embedded Systems • Robotics • Performance Optimizationheight="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bAbderraouf&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
@@ -167,6 +66,7 @@ Dynamic user interface connected to REST APIs using Qt/QML.
 # 📫 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/abderraouf-b-5b5025b4/
+* Portfolio : https://babderraouf.github.io/portfolio/
 
 ---
 
