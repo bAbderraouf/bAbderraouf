@@ -11,30 +11,13 @@ C/C++ | Python | C# | Matlab/Simulink | Qt/Qml | Rust
 📍 **Open to Remote and Hybrid Opportunities**
 
 ---
+## 🚀 Tech Stack
 
-# 🚀 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,qt,git,docker,cmake,linux,visualstudio"/>
+</p>
 
-### Languages
-
-* C/C++
-* Python
-* C#
-* Matlab
-
-### Frameworks & Libraries
-
-* Qt / QML
-* STL
-* SFML / Raylib
-
-### Development Tools
-
-* Git
-* CMake
-* Docker
-* Linux
-* Visual Studio
-
+**Also experienced with:** MATLAB • QML • STL • SFML • Raylib
 ---
 
 # 💼 Professional Experience
