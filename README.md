@@ -1,6 +1,8 @@
 ### C++ / Qt Software Developer
 
-I'm Abderraouf.B a Robotics and Automation Engineer with strong foundations in Electrical Engineering and Cybersecurity, and a passion for developing robust and efficient systems in C++. I also have experience coding in C, C#, Python, MATLAB/Simulink, but I’m currently focused on building my expertise in modern C++ software development. I may still be junior in terms of experience, but I'm highly autonomous, I learn fast, and I always find ways to solve real-world problems through smart engineering.
+I'm Abderraouf.B a C++ Developer with a background in Robotics, Automation, Electrical Engineering, and Cybersecurity, passionate about building reliable and high-performance software.
+Beyond C++, I've worked with C, C#, Python, and MATLAB/Simulink across embedded systems, automation, and software development projects.
+I'm a fast learner who enjoys tackling challenging problems, writing clean and maintainable code, and continuously improving my software engineering skills by building practical, real-world solutions.
 
 C/C++ Developer | CPA & CompTIA Sec+ certified | Control & Robotics Engineer
 7 years of professional experience (3 years in C++)
