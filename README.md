@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Abderraouf Bousri
-
 ### C++ / Qt Software Developer
 
 C/C++ Developer | CPA & CompTIA Sec+ certified | Control & Robotics Engineer
