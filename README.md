@@ -68,6 +68,8 @@ Modern C++ • Qt/QML • Software Architecture • Desktop Applications • Emb
 - 💼 **LinkedIn:** [Abderraouf B.](https://www.linkedin.com/in/abderraouf-b-5b5025b4/)
 - 🌐 **Portfolio:** https://babderraouf.github.io/portfolio/
 
+
+![](https://komarev.com/ghpvc/?username=bAbderraouf&color=blue)
 ---
 
 > *"Writing clean, efficient and maintainable C++ software one project at a time."*
