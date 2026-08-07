@@ -65,8 +65,8 @@ Modern C++ • Qt/QML • Software Architecture • Desktop Applications • Emb
 
 # 📫 Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/abderraouf-b-5b5025b4/
-* Portfolio : https://babderraouf.github.io/portfolio/
+- 💼 **LinkedIn:** [Abderraouf B.](https://www.linkedin.com/in/abderraouf-b-5b5025b4/)
+- 🌐 **Portfolio:** https://babderraouf.github.io/portfolio/
 
 ---
 
