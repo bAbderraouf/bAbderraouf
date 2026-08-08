@@ -37,8 +37,8 @@ I'm a fast learner who enjoys tackling challenging problems, writing clean and m
 
 ## 🎓 Education
 
-- 🎓 M.Sc. Robotics — University of Montpellier
-- 🎓 Control Engineering — ENP
+- 🎓 Master 2 Robotics — University of Montpellier
+- 🎓 Control Engineer — ENP
 
 ---
 
