@@ -6,6 +6,8 @@ I'm a C++ Developer with a background in Robotics, Automation, Electrical Engine
 Beyond C++, I've worked with C, C#, Python, and MATLAB/Simulink across embedded systems, automation, and software development projects.
 I'm a fast learner who enjoys tackling challenging problems, writing clean and maintainable code, and continuously improving my software engineering skills by building practical, real-world solutions.
 
+🌐 **Portfolio:** https://babderraouf.github.io/portfolio/
+
 📍 **Open to Remote and Hybrid Opportunities**
 
 ---
