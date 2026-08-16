@@ -48,6 +48,7 @@ I'm a fast learner who enjoys tackling challenging problems, writing clean and m
 - CPE – C++ Certified Entry-Level Programmer [view certificate](https://verify.openedg.org/?id=vMf1.vMY5.29Cf)
 - CompTIA Security+ [view certificate](https://www.credly.com/badges/af5085aa-9268-4fe3-b5e0-a8db6a8c2350/public_url)
 - C++ Programming (Saylor Academy) [view certificate](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1675007615/9487800193AB.pdf)
+- Complete Python Mastery [view certificate](https://babderraouf.github.io/portfolio/src/certificate-of-completion-for-python-programming-for-beginners.pdf)
 
 ---
 
