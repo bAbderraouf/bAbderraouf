@@ -27,11 +27,11 @@ I'm a fast learner who enjoys tackling challenging problems, writing clean and m
 
 ## 🚀 Featured Projects
 
-- ♟️ **Chess Game** — Modern C++ | Raylib | OOP | Game Engine
-- 📝 **Qt Text Editor** — Qt Widgets | File Explorer | Search
-- 🟪 **Tetris Engine** — Modern C++ | Design Patterns | Collision System
-- 🐍 **Snake Game** — C++ | SFML
-- 🌐 **Qt/QML API Client** — REST API Integration
+- ♟️ **Chess Game** — Modern C++ | Raylib | OOP | Game Engine [See Github project.](https://github.com/bAbderraouf/ChessGame-2D-Cpp)
+- 📝 **Qt Text Editor** — Qt Widgets | File Explorer | Search [📝 **Qt Text Editor** — Qt Widgets | File Explorer](https://github.com/bAbderraouf/RaTex-TextEditor-CppQt)
+- [🟪 **Tetris Engine** — Modern C++ | Design Patterns | Collision System](https://github.com/bAbderraouf/Raylib_Tetris_game)
+- [🐍 **Snake Game** — C++ | SFML](https://github.com/bAbderraouf/Raylib_Tetris_game)
+- [🌐 **Qt/QML API Client** — REST API Integration](https://github.com/bAbderraouf/Qml_AthanTimes_API)
 
 ---
 
